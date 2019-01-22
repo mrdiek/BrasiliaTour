@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">Brasilia Tour</string>
+    <string name="category_shoppings">Shoppings</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_attractions">Attractions</string>
+
+    <!-- Local Descriptions -->
+    <string name="brasilia_shopping_description">Since 1997 Brasilia Shopping stands out in the capital and, in addition to references in shopping, business and services, is also known as
+        Shopping Monument of Brasilia.</string>
+    <string name="catedral_description">Designed by the architect Oscar Niemeyer, it was the first monument to be created in Brasilia. Its foundation stone was launched on September 12,
+        1958. It had its structure ready in 1960, where only the circular area of seventy meters in diameter appeared, from which sixteen columns of concrete (parabolic section pillars) 
+        rise in a hyperboloid format, which weighing ninety tons. The engineer Joaquim Cardozo was responsible for the structural calculation that allowed the construction of the cathedral.
+        On May 31, 1970, it was inaugurated in fact, already on this date with transparent external glass.</string>
+    <string name="conjunto_nacional_description">The Shopping Conjunto Nacional, sometimes called by the CNB - Conjunto Nacional Brasilia, is the first shopping center in Brasilia and the
+        second mall to be built in Brazil, it was opened in 1971 and is one of the most traditional malls in the city.</string>
+    <string name="pier_21_description">A distinctive place, on the edge of Paranoa Lake, with the best in gastronomy, entertainment, culture and leisure. Pier 21 is innovative in Brasilia,
+        with an open mall concept.</string>
+    <string name="patio_brasil_description">Patio Brasil was inaugurated in 1997 and today is one of the main shopping malls in the Federal District, with a daily audience of about 50
+        thousand people. In addition to its privileged location, in the heart of Brasilia, between the South and North Wings, Patio Brasil is also notable for its mix of stores, with around 
+        200 consumer options. More than 25 restaurants, including the renowned Dom Francisco and Madero Restaurant.</string>
+    <string name="boulevard_shopping_description">Opened in June 2009, the Boulevard Shopping is designed to serve your audience with comfort and security. Located in the North Wing, in an
+        area of easy access, the Shopping is close to busy sectors of Brasilia, such as the North Hospital Sector and the Sector of Autarchies. Also integrated into residential neighborhoods 
+        important to the city\'s economy, such as the Northwest and the North Lake, Boulevard Shopping was built with 30,000 square meters of GLA and receives today more than 7 million people per year.</string>
+    <string name="iguatemi_shopping_description">The Iguatemi Brasília is a center of coexistence with space of comfort, leisure, daily activities, gastronomy and entertainment, besides
+        having a varied mix of shops, the best national and international brands.</string>
+    <string name="terraco_shopping_descriptions">Opened in November 1999, Terraço Shopping is undoubtedly the most charming and pleasant leisure center in Brasilia. Its open mall architecture
+        - more open, airy style with natural lighting - is a pleasing invitation for shopping and leisure. The mall also offers a large parking lot with 6,000 rotating seats / day. The mix of
+        shops, which brings together labels from all corners of the world, also has a wide variety of services, all designed to provide a complete experience to the visitor that goes beyond buying.</string>
+    <string name="jk_shopping_description">A gigantic commercial complex, which gathers shopping center, office tower, 5 floors of garage and state-of-the-art security system.</string>
+    <string name="taguatinga_shopping_description">Inaugurated in November 2000, Taguatinga Shopping is a venture of the PaulOOctavio and JC Gontijo Engenharia Organizations. Located in Taguatinga,
+        it is located in the region with the highest population density and construction potential of the Federal District, involving 42% of the local population. The mall is part of the Commercial
+        Complex which also has two towers of commercial rooms and an ample parking with capacity to receive 200 thousand vehicles per month. It houses 250 commercial operations, with a qualified mix
+        of products, services and entertainment, spread over four floors. It is the shopping center most remembered by the population of the DF, according to surveys conducted by the Top of Mind award,
+        which was awarded in eleven editions.</string>
+    <string name="aguas_claras_shopping_description">Águas Claras Shopping was inaugurated at the end of 2005 and, after going through two expansions, has a GLA of 6,556 m2, already matured. It is
+        currently the best and largest Shopping Center in the city of Águas Claras, being the main option for leisure, shopping and services for the inhabitants of the region. The mall is affiliated
+        to the Brazilian Association of Shopping Centers - Abrasce, and in 2007 it won a prominent prize in the marketing area, granted by the Brazilian Association of Shopping Shopkeepers - Alshop.
+        In 2014, he won the Águas Claras Visionary Award for his effort, dedication and contribution to the cultural, economic and social development of Águas Claras.</string>
+    <string name="parque_nacional_description">The National Park of Brasilia, better known by the nickname \"Mineral Water\", is a Brazilian conservation unit of integral protection to the nature
+        located in the northwest of the Federal District and in the center of the state of Goiás.</string>
+    <string name="lago_paranoa_description">Lake Paranoá is an artificial lake located in the city of Brasília, in the Federal District, capital of Brazil. It was conceived in 1894 by the Cruls
+        Mission and concretized with the construction of the city, during the government of President Juscelino Kubitschek. The lake is formed by the dammed waters of the Paranoá River. It has 
+        48 square kilometers of area, maximum depth of 38 meters and about eighty kilometers of perimeter, with some artificial beaches, such as \"Prainha\" and \"Piscinão do Lago Norte\". Located
+        in Brasilia, it was created with the aim of increasing the humidity in its vicinity. Around the lake there are several bars and restaurants. The districts Lake South and Lake North derive
+        their names from the lake. Each occupies one of the two peninsulas.</string>
+    <string name="ponte_jk_description">The Juscelino Kubitschek Bridge, also known as JK Bridge or Third Bridge, is located in Brasilia, connecting the South Lake, Paranoá and São Sebastião to the
+        central part of Brasilia, through the Monumental Axis, crossing Lake Paranoá. Inaugurated on December 15, 2002, the structure of the bridge has a total crossing length of 1200 meters, width
+        of 24 meters with two lanes, each with three rolling lanes, two catwalks on the sides for use by cyclists and pedestrians with 1.5 meters wide and total length of spans 720 meters. It was
+        inaugurated in 2002.On October 28, 1991, Gilson Araújo presented Bill No. 187. That required the Government of the Federal District to authorize the construction of the bridge over Lake Paranoá.</string>
+    <string name="torre_de_tv_description">The TV Tower was inaugurated in 1967 to receive the antennae of radio and television stations. The tourist spot is one of the main monuments of Brasilia
+        and was designed by the creator of the city, the architect and urbanist Lucio Costa, inspired by the Eiffel Tower of Paris. The mezzanine and the gazebo are part of the structure, open to
+        tourists. In addition to the beautiful landscape, the TV Tower Complex has the local Crafts Fair, which runs from Friday to Sunday and public holidays. In place, it is possible to find furniture,
+        clothing, costume jewelry and art in general. Further on, the visitor can still see the colorful water show of the Luminous Fountain, one of the largest in Latin America. There are 3.5 million
+        liters of water, 28 speakers, 21 automatic bowls, two sets of jets, a large illuminated palm tree and a geyser that can throw water up to 50m in height.</string>
+    <string name="santuario_dom_bosco_description">The Don Bosco Sanctuary is one of the most well-known churches in Brasília-DF, and one of the most frequent images on the city\'s postcards. It
+        occupies a good part of Quadra 702 South, in a very central position in the Pilot Plane.It was created by the architect \"Carlos Alberto Naves\". In honor of the patron saint of Brasília
+        (St. John Belchior Bosco), the construction of the sanctuary was an initiative of the Salesian Congregation in partnership with the Federal Government. Under the inspiration of Don Bosco\'s
+        dream with Brasilia, a small hermitage (chapel) was erected in front of Lake Paranoá, the Ermida Don Bosco.</string>
+    <string name="parque_da_cidade_description">Parque da Cidade is a multipurpose park located in Asa Sul in Brasilia, in the Federal District. It was founded on October 11, 1978 and has 420 hectares.
+        It is one of the largest and most extensive outdoor leisure centers in the city, concentrating sports courts, artificial lakes, amusement park, equestrian center and hiking, skating and cycling
+        trails. The park is considered a patrimony of Brasilia. Originally named after Rogério Pithon Farias, a young man - son of the then governor - who died in a car accident. It was renamed Parque
+        Dona Sarah Kubitschek in 1997. The park gained national fame through the music Eduardo and Mônica of the Brazilian group Legião Urbana.</string>
+    <string name="memorial_jk_description">The JK Memorial is a Brazilian museum located in the Civic-Administrative Zone Eixo Monumental, in Brasilia, capital of Brazil. It was designed by Oscar
+        Niemeyer, inaugurated on September 12, 1981 and is dedicated to former Brazilian president Juscelino Kubitschek founder of the city of Brasilia.</string>
+    <string name="museu_nacional_description">The National Museum Honestino Guimarães is a Brazilian museum created and administered by the government of the Federal District, Brazil. The institution
+        was inaugurated with an exhibition on Niemeyer\'s work: \"Niemeyer and Brasília - World Heritage Site\". The museum and the library form the Cultural Complex of the Republic of João
+        Herculino.</string>
+    <string name="templo_boa_vontade_description">The TBV was founded by the director general of the LGW, José de Paiva Netto, on October 21, 1989. From there, he welcomes all people, 24 hours a day,
+        7 days a week, regardless of religious beliefs and disbelief, social class or ethnic group, promoting the creature\'s integration with the Creator.</string>
+    <string name="parque_olhos_dagua_description">The Olhos D\'Agua and Olhos D\'Agua Multi-purpose Park is a public, ecological and leisure park in Brazil, located in the center of the Federal District,
+        in the administrative region of Brasilia and has 21 hectares.</string>
+    <string name="ccbb_description">The Banco do Brasil Cultural Center (CCBB) is a network of cultural spaces managed and maintained by Banco do Brasil, with the aim of disseminating culture to the
+        population. Currently, it is installed in four Brazilian capitals: Rio de Janeiro, São Paulo, Belo Horizonte and Brasília. Cultural center in modern and imposing construction, containing galleries
+        of contemporary art, cinema and coffee.</string>
+    <string name="b_hotel_description">Located in the Monumental Eixo, the hotel enriches the contemporary architecture that identifies Brasília. Rooms with design furniture and minimalist decor offer 
+        guests a new experience in the capital. The restaurant, run by renowned chef, brings the best of international cuisine. On the top floor, the pool bar offers a privileged view of the city and 
+        its famous sky.</string>
+    <string name="royal_tulip_description">The Royal Tulip Brasilia Alvorada is certainly one of the most imposing hotels in the Federal District. With architecture signed by Ruy Ohtake, it is located
+        on the banks of Lake Paranoá, next to the Alvorada Palace and less than 10 minutes from the commercial center of Brasilia and 15 minutes from the airport.</string>
+    <string name="life_resort_description">A paradise in the middle of the cerrado that is perfect for you to experience incredible moments in family, romantic seasons, weekend among friends or to reside.
+        Whatever the reason we will always be waiting for you.</string>
+    <string name="melia_21_description">With a privileged location in Asa Sul, the hotel unites exclusive services with convenience: part of the Business Center Brasil 21, its three blocks stand out for
+        the quality of the accommodation and proximity to the main points of business and tourism.</string>
+    <string name="golden_tulip_description">This quiet hotel is set in a beautiful, contemporary building on the shores of Lake Paranoá. It is a 12-minute walk from Alvorada Palace and 7 km from Brasilia
+        Cathedral.There is an international self service restaurant, casual bar and a convenience store. Other facilities include a spa, saunas and three outdoor swimming pools (one for children), as well
+        as a gym, jogging track and three tennis courts.</string>
+    <string name="cullinan_description">This refined hotel is a 4-minute walk from the nearest bus stop, 12 minutes from Monumental Eixo and 3 km from Brasilia Cathedral, designed by Oscar Niemeyer.
+        Complimentary amenities include parking and a buffet breakfast served in an airy and well-lit restaurant. There is a fitness room, an outdoor pool and a sauna.</string>
+    <string name="windsor_description">This luxury hotel in the Federal District is a 12-minute walk from the subway station, 8 minutes from the TV Tower and 13 km from Brasilia International Airport.
+        The sophisticated rooms and suites overlook either the TV Tower or the Senate and feature free Wi-Fi, satellite TV, work station and minibar, soundproofed windows and room service. The breakfast
+        buffet is complimentary. There is a separate level restaurant and pub style bar. Other facilities include an outdoor swimming pool with sun loungers, an outdoor hot tub, a sauna and a gym.</string>
+    <string name="brasilia_palace_description">This elegant, futuristic hotel was designed by the architect Oscar Niemeyer and is a 4-minute walk from the nearest bus stop, 15 minutes from Alvorada Palace
+        and 4.4 km from the famous Federal Supreme Court. The refined and modern rooms offer free Wi-Fi, flat-screen TV, balcony and minibar. 24-hour room service is available. The suites have a living
+        room, and the higher category rooms have a bath tub. The complimentary hot breakfast buffet is served in an ultra-sophisticated restaurant with dark wood décor. There is also an outdoor pool with
+        a poolside bar and a terrace, as well as a fitness room and a shopping center.</string>
+    <string name="villa_triacca_description">Set in an isolated complex of buildings around two lakes, this rustic and informal lodge surrounded by fields and forests is 2 km from the federal highway
+        BR-251. The simple rooms with lake views feature stone accents and / or wooden furniture. They feature a flat-screen TV, minibar and balcony with hammocks. The bungalows have deckchairs, hot tub,
+        sitting area and sofa bed. Wi-Fi available. The breakfast is free. A simple restaurant has a shaded terrace overlooking the lake. There are two heated outdoor pools, one with a waterfall. Other
+        amenities include a playground and fishing area.</string>
+    <string name="coco_bambu_description">Chosen the best seafood restaurant in Brasilia, it has 30 units in Brazil. Unit with a beautiful view to Lake Paranoá, toy library, excellent wine and drinks,
+        valet, generator, with all the necessary structure for a moment of great joy in the capital of our country. We are ready to receive your visit! An extraordinary atmosphere, a distinguished team 
+        and a menu with lots of variety to suit all palates!</string>
+    <string name="villa_tevere_description">Owners for 22 years of the most traditional Buffet of the city in the 80s and 90s, Suzana Leste and son Flávio, accustomed to large receptions and events and
+        driven by the desire to practice gastronomy on a smaller scale and with a better quality of life, planned the opening of the Trastevere Ristorante, opened on 09/22/1999. In 2001 they changed the
+        name to Villa Tevere. \"We are not a Cantina or a Trattoria, we are a restaurant with a strong architectural influence and Italian cuisine. We present some dishes of the classic Italian gastronomy,
+        as well as dishes with a fusion tendency, some with Asian touches and appreciation of Brazilian spices\". - Flávio Leste</string>
+    <string name="new_koto_description">Typical paintings, bamboo elements and video clips displayed on the TV help to compose the authentic environment, which reproduces a Japanese portal right at the
+        entrance. From there you can see the shuttle on the counter, the fresh fish and the painstaking work of chef Cristiano Komiya who keeps the house at the top, guided by the precious-heritage-based specialty
+        inherited from his father, Ryozo Komiya.</string>
+    <string name="bloco_c_description">Under the command of Chef Marcelo Petrarca, Brasilia is the inspiration of Block C. An unpretentiously homemade food restaurant with touches of sophistication, varied menu,
+        and imported wines. Sophisticated restaurant with contemporary lines and a mezzanine.</string>
+    <string name="sante_13_description">Fusion of international flavors and drinks menu, in a rustic-contemporary environment and garden. Illuminated by candles and set with good music, Santé 13 offers a
+        gastronomic option different from its visitors.</string>
+    <string name="taypa_description">Taypá Sabores del Peru, the first genuinely authentic Peruvian restaurant in Brasilia, and in February 2011 was chosen by the government of Peru as the best Peruvian 
+        restaurant in Brazil. Located in the commercial center of IQ 17 of Lago Sul, the restaurant brings together great names of local and international gastronomy, such as Ivone Espiñeira, Antônio Carvalho,
+        Madalena and Albano Ribeiro, traditional BierFass, Ponta do Lago Sul, and Peruvian chef Marco Espinoza. The latter left the command of the renowned restaurant Bardot, in Buenos Aires, to sign the menu
+        and the consulting of gastronomic space.</string>
+    <string name="mangai_description">A modern and sophisticated restaurant that serves traditional and reinvented dishes from the Brazilian Northeast. Mangai is a popular expression used, in ancient times,
+        in some cities of the northeastern interior, to designate a fair, a place where you find everything a little. The Mangai Brasilia is located in one of the most beautiful areas of Brasilia, overlooking 
+        Lake Paranoá and JK Bridge, close to the Ministries, National Congress, Courts and Embassies.</string>
+    <string name="ticiana_werner_description">Varied buffet, in addition to wines, island of pasta and carvery of risottos, in a contemporary and cozy atmosphere. The design was elaborated being used in the
+        decoration rusty iron, stainless steel, much glass, valuing the natural and artificial lighting, clear walls, paintings referring to products used in the kitchen, forming a harmonious and elegant ensemble.
+        The proposal is to innovate in the traditional buffet cuisine with the use of differentiated techniques of production and provision of better services.</string>
+    <string name="dom_francisco_description">Lunch buffet and pasta trumpet, as well as a meat and fish menu, in a rustic-contemporary setting. Synonymous with good food and good wines, the name Dom Francisco
+        is today a brand of high gastronomy in Brasilia. Francisco Ansiliero, the founding chef lends his name to the restaurant. Francisco\'s wife, Carmélia, also played a prominent role in making desserts that
+        would become classics in the city. Besides her, the eldest daughter, Giuliana, participated actively in the organization of the restaurant from the beginning. The first home of the network, located at 402
+        south, was inaugurated in 1988.</string>
+    <string name="toro_description">Typical Argentinean restaurant with acclaimed barbeque, wine list, classic ambience exquisite. Located at 104 South, the Toro restaurant offers special meats certified and
+        prepared on the grill, in the traditional fashion of Rio Grande do Sul, Argentina and Uruguay. Founded by the restaurant Fábio Gregol in January 2014, Toro offers modern interpretations of dishes with
+        family tradition that have become a reference in gastronomy in the federal capital. The house specializes in cuts such as ancho steak, picanha, ancho cut beef rib, and more. The eclectic menu includes
+        starters, salads, signature dishes, steaks, fish, risotto, pasta and irresistible desserts.</string>
+
+
+    
+
+    
+</resources>
